@@ -41,6 +41,10 @@ The system currently supports:
 Each perspective focuses on the information most relevant to that role, helping stakeholders quickly understand what happened, what was decided, what needs to be done, and what requires attention.
 
 ---
+<img width="1600" height="770" alt="WhatsApp Image 2026-08-18 at 10 12 55 AM" src="https://github.com/user-attachments/assets/7516dbf1-d753-454c-8dc3-a19084486f25" />
+<img width="1600" height="768" alt="WhatsApp Image 2026-08-18 at 10 14 01 AM" src="https://github.com/user-attachments/assets/821e6bd9-eeaf-47ec-b357-2e851c1251a4" />
+<img width="1600" height="774" alt="WhatsApp Image 2026-08-18 at 10 16 06 AM" src="https://github.com/user-attachments/assets/6bee7250-9717-4ed7-8468-0a4174ac1957" />
+<img width="1600" height="766" alt="WhatsApp Image 2026-08-18 at 10 16 25 AM" src="https://github.com/user-attachments/assets/17b92ecb-f66c-4edd-bf85-ac837e6a1a9f" />
 
 ## ✨ Features
 
